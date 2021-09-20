@@ -1,3 +1,5 @@
+#SOUP-DIL MRI 
+
 Python implementation of the SOUP-DIL algorithm  in 
 
 S. Ravishankar, R. R. Nadakuditi and J. A. Fessler, 
