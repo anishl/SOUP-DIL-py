@@ -12,4 +12,8 @@ A. Lahiri, G. Wang, S. Ravishankar and J. A. Fessler,
 "Blind Primed Supervised (BLIPS) Learning for MR Image Reconstruction," 
 in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2021.3093770.
 
-To test code, run `testDictionaryLearningMRI.py` 
+To test code, run `testDictionaryLearningMRI.py` (assumes presence of .mat file with k-space, ground truth image, sensitivity maps, samplimg mask, etc. )
+
+additional dependencies listed in `utils.py`
+
+
