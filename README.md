@@ -1,4 +1,4 @@
-**#SOUP-DIL MRI 
+**SOUP-DIL MRI 
 **
 Python implementation of the SOUP-DIL algorithm  in 
 
